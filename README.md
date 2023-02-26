@@ -39,6 +39,6 @@
 ## Testing screenshot
 
 
-![Screenshot_1](https://github.com/Flux99/api-e-commerce/blob/main/Screenshots/Screenshot%20from%202023-02-25%2014-55-27.png?raw=true)
+![Screenshot_1](https://github.com/Flux99/react-rickandmorty/blob/main/Screenshot/Screenshot%20from%202023-02-26%2018-42-46.png?raw=true)
 
-![Screenshot_1](https://github.com/Flux99/api-e-commerce/blob/main/Screenshots/Screenshot%20from%202023-02-25%2001-25-29.png?raw=true)
+![Screenshot_1](https://github.com/Flux99/react-rickandmorty/blob/main/Screenshot/Screenshot%20from%202023-02-26%2018-42-57.png?raw=true)
